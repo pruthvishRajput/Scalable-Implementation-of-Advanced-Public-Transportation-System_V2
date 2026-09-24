@@ -1,0 +1,16 @@
+# Creating Virtual Environment 
+sudo apt update
+sudo apt install python3-pip python3-venv
+
+mkdir Softwar_Env
+cd Softwar_Env/
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Download dependencies
+pip install -r requirements.txt
+
+
+Download dataset
+Download github repo
+Install mongoDB community version

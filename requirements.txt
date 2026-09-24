@@ -1,0 +1,12 @@
+astropy 
+folium 
+ipywidgets 
+matplotlib 
+notebook 
+numpy
+openpyxl 
+pandas 
+pymongo
+scikit-learn
+scipy
+pytz
